@@ -1,0 +1,16 @@
+.cardTheme {
+    background-color:rgba(6, 139, 228, 0.856);
+    color: white;
+    border-top-left-radius: 5pt;
+    border-top-right-radius: 5pt;
+}
+
+.mainTheme {
+    background-color: rgba(91, 230, 98, 0.829);
+    color: white;
+}
+
+.margin {
+    margin-right: 25pt;
+    box-shadow: 10px 10px 5px rgb(149, 148, 148);
+}
