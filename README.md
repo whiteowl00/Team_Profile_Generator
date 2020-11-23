@@ -5,8 +5,7 @@ You can make your own team profile with this generator.
 This is very simple and easy to organize your team profile.
 
 ## Applications
-mainly JavaScript
-HTML, CSS
+mainly JavaScript and some of HTML, CSS
 
 ## Contributor
 Aaron Kim
